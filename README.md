@@ -109,6 +109,7 @@ print("Matched points: \(result.matchedPointsCount)")
 - [GBCPD/GBCPD++] O. Hirose, "[Geodesic-Based Bayesian Coherent Point Drift](https://ieeexplore.ieee.org/document/9918058)," IEEE TPAMI, Oct 2022.
 - [BCPD++] O. Hirose, "[Acceleration of non-rigid point set registration with downsampling and Gaussian process regression](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9290402)," IEEE TPAMI, Dec 2020.
 - [BCPD] O. Hirose, "[A Bayesian formulation of coherent point drift](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8985307)," IEEE TPAMI, Feb 2020.
+- [probreg] neka-nat, "[probreg: Point cloud registration library for Python](https://github.com/neka-nat/probreg)"
 
 ## License
 
