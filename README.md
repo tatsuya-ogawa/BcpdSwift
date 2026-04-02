@@ -1,5 +1,7 @@
 # BCPD Swift
 
+![Swift](https://github.com/tatsuya-ogawa/BcpdSwift/actions/workflows/swift.yml/badge.svg)
+
 iOS/Swift implementation of Bayesian Coherent Point Drift (BCPD) algorithm.
 
 ## Overview
